@@ -2,7 +2,7 @@
 
 namespace MQM\ViewModelBundle\ViewModel;
 
-use MQM\ViewModelBundle\ViewModel\ViewModelBuilder;
+
 
 interface ViewModelTypeInterface
 {    
